@@ -107,9 +107,9 @@ For more information, setup instructions for other dev clients, and to post comm
 <table>
 <tr>
     <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+        <img src="http://github.com/husamhilal.png" width="100px;" alt="Husam Hilal"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> Husam Hilal
 </b></sub></a><br />
             <a href="https://github.com/mikekinsman" title="talk">📢</a> 
     </td>
