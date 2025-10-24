@@ -1,69 +1,3 @@
-# Welcome Ignite 2025 Creators!
-
-Thanks for creating content for Ignite!  Please follow this guidance so all ignite repos have the same look and feel.
-
-## How to contact Skillable?
-
-If you have issues with the Skillable environment, please follow these steps:
-
-1. Open an issue in the [Issues](../../issues) tab using the `New issue` button.
-1. Describe the problem, be descriptive, use screenshots if possible etc.
-1. Tag the following Skillable employees:
-   - @kylerosenthal
-   - @TubaMikeBob
-   - @Naimjones16
-   - @jmbauf
-1. Have all the discussions related to the issue in the issue itself.
-1. Once the issue is resolved, please mark it as Closed.
-
-## Put your docs in the docs folder
-
-This repo is configured for a user to view the docs through mkdocs.
-
-1. update the `mkdocs.yml` file to reference your session. Look particularly for the `site_name`, `site_author`, and `repo_name` tags.
-1. Subfolders in the docs folder will show up as tabs in the navigation bar.
-
-## Guidance
-
-1. Do not turn on github pages for this repo, traffic to github pages isn't captured in our metrics.
-1. Do not store slides or recordings in this repo
-
-## Update the badges!
-
-1. if the foundry discord and github links aren't appropriate for your session you can remove or change them.
-2. See shields.io for how to build your own dynamic or static badge for your community destinations, or other sample repos for how they've done
-3. Please limit your repo to one row of badges under the session title.
-
-## MCP Server
-1. This repo has an mcp.json file and is configured to let agents connect to the Learn MCP Server.
-
-> **Important** Make sure to avoid hardcoding sensitive information like API keys and other credentials by using input variables or environment files.
-
-
-## Update this readme below
-
-1. Fill out the content in this file, below the banner graphic, including the session code.
-2. Please embed links to Learn with your campaign codes!
-3. Add resources for your session to the Resources and Next Steps table
-4. Change the Content Owner section to your info
-5. Change the placeholder session code BRKXXX to your session code.
-
-## Improve SEO
-
-1. Update the Repo Info for this repo 
-    1. Click the gear icon⚙️ in the upper right.
-    1. Set a good description of this repo.
-    1. Add the technologies that you're using in this session.
-
-## Questions?
-
-Send them to [Mike Kinsman](mailto:mikki@microsoft.com) and [Laurent Bugnion](lbugnion@microsoft.com), or surface your question through your content leads.  We are also monitoring issues logged in the repos.
-
-## Finished?
-
-- Remove the folders that you don't need or didn't use, *please don't leave them empty with placeholder readmes*
-- Delete this line and everything above it!
-
 <p align="center">
 <img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
 </p>
@@ -72,20 +6,34 @@ Send them to [Mike Kinsman](mailto:mikki@microsoft.com) and [Laurent Bugnion](lb
 
 ## 🔥LAB503: AVS from Migration and Optimization to Modernization
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
+**Note**: AVS stands for Azure VMware Solution
+
+Join AVS Community on LinkedIn: [AVSPros](https://aka.ms/AVSPros)
 
 ### Session Description
 
-*Add Session Description*
+Participants will engage in a structured hands-on lab designed to have end-to-end real‑world Azure VMware Solution (AVS) deployment and modernization workflows. The environment leverages click-through AVS LABs. This lab covers six learning modules representing key stages from discovery to modernization. The first three are mandatory and the rest are optional.
+
+Core modules include:
+1. Use Azure Portal to deploy AVS private cloud and manage VMware vSphere environment in Azure.
+2. VMs Migration using VMware HCX: Leverage HCX capabilities to migrate VMs from on‑prem into the AVS private cloud.
+3. Modernize application running on AVS private cloud by moving SQL to Azure SQL Managed Instance in Azure.
+
+Optional modules include:
+1. Private Connectivity & Internet Access: establish secure AVS connectivity using Azure Route Server and Azure Firewall.
+2. Expand AVS Storage with Azure Services: explore and integrate Azure NetApp Files or Elastic SAN as additional datastore options for vSphere, enabling to scale storage independently from compute to meet evolving capacity needs.
+3. Azure Arc management of AVS & VMs:  Onboard AVS private cloud to Azure Arc as well as the migrated VMs enabling using Azure interfaces for monitoring and governance of AVS workloads.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- ✅ Deploy and configure an Azure VMware Solution Private Cloud using Azure Portal.
+- 🚚 Migrate VMs from on-premises environment to AVS using VMware HCX.
+- 🚀 Modernize AVS workloads by integrating with Azure services such as Azure SQL Managed Instance and Azure AI capabilities.
+- 🧭 Arc-enable AVS private cloud and VMs to manage workloads via Azure interfaces for monitoring, policy, and governance.
+- 📦 Expand AVS storage using Azure NetApp Files or Azure Elastic SAN, enabling independent scaling of storage from compute.
+- 🔐 Establish secure network connectivity using ExpressRoute/VPN and Azure Virtual WAN to enable controlled internet access.
 
 ### 💻 Technologies Used
 
@@ -107,16 +55,12 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
-| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community! |
-| Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| AVS Pros | [aka.ms/AVSPros](https://aka.ms/AVSPros) | Connect with the Azure VMware Soltuion Community on LinkedIn! |
+| AVS Docs | [aka.ms/AVSDocs](https://aka.ms/AVSDocs)  | Continue learning on Microsoft Learn |
+| AVS Learning Path | [aka.ms/AVSLearningPath](https://aka.ms/AVSLearningPath)  | Dive deaper in learning AVS |
+| Azure Migration Blog | [Blog](https://techcommunity.microsoft.com/category/azure/blog/azuremigrationblog) | Azure Migration and Modernization Blog
 
 ## Content Owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
 
 <table>
 <tr>
