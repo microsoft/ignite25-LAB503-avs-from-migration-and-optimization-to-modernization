@@ -57,6 +57,7 @@ For more information, setup instructions for other dev clients, and to post comm
 |:-------------------|:----------------------------------|:-------------------|
 | AVS Pros | [aka.ms/AVSPros](https://aka.ms/AVSPros) | Connect with the Azure VMware Soltuion Community on LinkedIn! |
 | AVS Docs | [aka.ms/AVSDocs](https://aka.ms/AVSDocs)  | Continue learning on Microsoft Learn |
+| AVS Learn Challenge | [aka.ms/AVSChallenge](https://aka.ms/AVSChallenge)  | Build the skills to confidently migrate and modernize your VMware workloads with Azure |
 | AVS Learning Path | [aka.ms/AVSLearningPath](https://aka.ms/AVSLearningPath)  | Dive deaper in learning AVS |
 | Azure Migration Blog | [Blog](https://techcommunity.microsoft.com/category/azure/blog/azuremigrationblog) | Azure Migration and Modernization Blog
 
