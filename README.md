@@ -56,6 +56,8 @@ For more information, setup instructions for other dev clients, and to post comm
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | AVS Pros | [aka.ms/AVSPros](https://aka.ms/AVSPros) | Connect with the Azure VMware Soltuion Community on LinkedIn! |
+| Discord | [aka.ms/AIFoundryDiscord-Ignite25](https://aka.ms/AIFoundryDiscord-Ignite25) | Join our community on Discord |
+| GitHub Discussions | [aka.ms/AIFoundryForum-Ignite25](https://aka.ms/AIFoundryForum-Ignite25) | Ask questions and engage with the community |
 | AVS Docs | [aka.ms/AVSDocs](https://aka.ms/AVSDocs)  | Continue learning on Microsoft Learn |
 | AVS Learn Challenge | [aka.ms/AVSChallenge](https://aka.ms/AVSChallenge)  | Build the skills to confidently migrate and modernize your VMware workloads with Azure |
 | AVS Learning Path | [aka.ms/AVSLearningPath](https://aka.ms/AVSLearningPath)  | Dive deaper in learning AVS |
