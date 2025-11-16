@@ -56,6 +56,7 @@ For more information, setup instructions for other dev clients, and to post comm
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | Learn more about Ignite 2025 sessions and topics |
 | AVS Pros | [aka.ms/AVSPros](https://aka.ms/AVSPros) | Connect with the Azure VMware Soltuion Community on LinkedIn! |
 | AVS Docs | [aka.ms/AVSDocs](https://aka.ms/AVSDocs)  | Continue learning on Microsoft Learn |
 | AVS Learn Challenge | [aka.ms/AVSChallenge](https://aka.ms/AVSChallenge)  | Build the skills to confidently migrate and modernize your VMware workloads with Azure |
