@@ -8,7 +8,9 @@
 
 **Note**: AVS stands for Azure VMware Solution
 
-Join AVS Community on LinkedIn: [AVSPros](https://aka.ms/AVSPros)
+>
+> **👉🏻 Start the lab by going to : [🖥️ AVS Hands-on Labs ](https://aka.ms/AVSDemos)**
+>
 
 ### Session Description
 
@@ -41,6 +43,11 @@ By the end of this session, learners will be able to:
 1. VMware HCX ( VCF Operations HCX 9.0 )
 1. Azure SQL Managed Instances
 
+### 🫳🏻 Start now
+
+To start labs on-demand go to: **[🖥️ AVS Hands-on Labs ](https://aka.ms/AVSDemos)**
+
+
 ### 🌟 Microsoft Learn MCP Server
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
@@ -55,13 +62,14 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
-| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | Learn more about Ignite 2025 sessions and topics |
+| AVS Labs  ✨  | [aka.ms/AVShol](https://aka.ms/AVShol) | AVS Hands-on labs available on-demand
 | AVS Pros | [aka.ms/AVSPros](https://aka.ms/AVSPros) | Connect with the Azure VMware Soltuion Community on LinkedIn! |
 | AVS Docs | [aka.ms/AVSDocs](https://aka.ms/AVSDocs)  | Continue learning on Microsoft Learn |
 | AVS Learn Challenge | [aka.ms/AVSChallenge](https://aka.ms/AVSChallenge)  | Build the skills to confidently migrate and modernize your VMware workloads with Azure |
 | AVS Learning Path | [aka.ms/AVSLearningPath](https://aka.ms/AVSLearningPath)  | Dive deaper in learning AVS |
 | Azure Migration Blog | [Blog](https://techcommunity.microsoft.com/category/azure/blog/azuremigrationblog) | Azure Migration and Modernization Blog
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | Learn more about Ignite 2025 sessions and topics |
 
 ## Content Owners
 
