@@ -75,23 +75,23 @@ For more information, setup instructions for other dev clients, and to post comm
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
+    <td align="center"><a href="http://github.com/husamhilal">
         <img src="http://github.com/husamhilal.png" width="100px;" alt="Husam Hilal"/><br />
         <sub><b> Husam Hilal
 </b></sub></a><br />
-            <a href="https://github.com/cavillue" title="talk">📢</a> 
+            <a href="https://github.com/husamhilal" title="talk">📢</a> 
     </td>
     <td align="center"><a href="http://github.com/cavillue">
         <img src="http://github.com/cavillue.png" width="100px;" alt="Carlos Villuendas"/><br />
         <sub><b>Carlos Villuendas
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/cavillue" title="talk">📢</a> 
     </td>
     <td align="center"><a href="http://github.com/Trevor-Davis">
         <img src="http://github.com/Trevor-Davis.png" width="100px;" alt="Trevor Davis"/><br />
         <sub><b>Trevor Davis
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/Trevor-Davis" title="talk">📢</a> 
     </td>
 </tr></table>
 
